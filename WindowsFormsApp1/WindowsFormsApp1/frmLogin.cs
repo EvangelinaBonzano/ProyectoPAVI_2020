@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1
-{ // comentario algo
+{ // comentario algo 2.0
     public partial class frmLogin : Form
     {
         string user = "admin";
