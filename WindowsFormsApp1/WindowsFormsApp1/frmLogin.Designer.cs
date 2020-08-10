@@ -67,6 +67,7 @@
             // 
             // txtUsuario
             // 
+            this.txtUsuario.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.txtUsuario.Location = new System.Drawing.Point(91, 24);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(100, 20);
