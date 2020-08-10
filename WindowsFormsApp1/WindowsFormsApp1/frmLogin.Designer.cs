@@ -3,7 +3,7 @@
     partial class frmLogin
     {
         /// <summary>
-        /// Variable del diseñador necesaria.
+        /// Variable del diseñador necesaria
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
@@ -70,8 +70,13 @@
             // 
             // txtUsuario
             // 
+<<<<<<< HEAD
             this.txtUsuario.Location = new System.Drawing.Point(76, 28);
             this.txtUsuario.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+=======
+            this.txtUsuario.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.txtUsuario.Location = new System.Drawing.Point(91, 24);
+>>>>>>> 454f9d88a878e94e084a21ee4c3c2b4d11d64493
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(84, 20);
             this.txtUsuario.TabIndex = 0;
@@ -99,7 +104,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(5F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(211, 174);
+=======
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(253, 151);
+>>>>>>> 454f9d88a878e94e084a21ee4c3c2b4d11d64493
             this.Controls.Add(this.txtClave);
             this.Controls.Add(this.lblClave);
             this.Controls.Add(this.txtUsuario);
