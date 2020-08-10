@@ -67,5 +67,10 @@ namespace WindowsFormsApp1
                 this.txtUsuario.Focus();
             }
         }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }  
