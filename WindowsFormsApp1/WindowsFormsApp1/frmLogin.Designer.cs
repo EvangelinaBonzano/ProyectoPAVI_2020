@@ -1,5 +1,5 @@
 ﻿namespace WindowsFormsApp1
-{
+{//comentario de prueba
     partial class frmLogin
     {
         /// <summary>
