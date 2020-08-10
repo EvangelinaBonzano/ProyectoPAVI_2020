@@ -1,5 +1,5 @@
-﻿namespace WindowsFormsApp1
-{
+﻿namespace WindowsFormsApp1 // Antonella
+{//comentario de prueba
     partial class frmLogin
     {
         /// <summary>
