@@ -1,0 +1,11 @@
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\obj\Debug\LoginEnCapas.csprojAssemblyReference.cache
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\obj\Debug\LoginEnCapas.GUILayer.frmLogin.resources
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\obj\Debug\LoginEnCapas.GUILayer.frmPrincipal.resources
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\obj\Debug\LoginEnCapas.Properties.Resources.resources
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\obj\Debug\LoginEnCapas.csproj.GenerateResource.cache
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\obj\Debug\LoginEnCapas.csproj.CoreCompileInputs.cache
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\bin\Debug\LoginEnCapas.exe.config
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\bin\Debug\LoginEnCapas.exe
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\bin\Debug\LoginEnCapas.pdb
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\obj\Debug\LoginEnCapas.exe
+E:\Desktop\Proyectos PAV I\Proyecto Integrador PAVI\LoginEnCapas\LoginEnCapas\obj\Debug\LoginEnCapas.pdb
