@@ -1,0 +1,48 @@
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\bin\Debug\ProyectoLiquidexSA.exe.config
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\bin\Debug\ProyectoLiquidexSA.exe
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\bin\Debug\ProyectoLiquidexSA.pdb
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csprojAssemblyReference.cache
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Asistencia.frmAsistencia.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Asistencia.frmABMAsistencia.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Usuarios.frmABMUsuario.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.frmLogin.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.frmPrincipal.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Usuarios.frmUsuarios.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.Properties.Resources.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csproj.GenerateResource.cache
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csproj.CoreCompileInputs.cache
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.exe
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.pdb
+E:\Desktop\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csprojAssemblyReference.cache
+E:\Desktop\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.exe
+E:\Desktop\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.pdb
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csprojAssemblyReference.cache
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Asistencia.frmAsistencia.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Asistencia.frmABMAsistencia.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Usuarios.frmABMUsuario.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.frmLogin.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.frmPrincipal.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Usuarios.frmUsuarios.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.Properties.Resources.resources
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csproj.GenerateResource.cache
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csproj.CoreCompileInputs.cache
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.exe
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.pdb
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\bin\Debug\ProyectoLiquidexSA.exe.config
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\bin\Debug\ProyectoLiquidexSA.exe
+C:\Users\TKC\Downloads\UNIVERSIDAD\3ER AÑO\PAV 1\Ultimo\ProyectoLiquidexSA\LoginEnCapas\bin\Debug\ProyectoLiquidexSA.pdb
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\bin\Debug\ProyectoLiquidexSA.exe.config
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\bin\Debug\ProyectoLiquidexSA.exe
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\bin\Debug\ProyectoLiquidexSA.pdb
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csprojAssemblyReference.cache
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Asistencia.frmABMAsistencia.resources
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Asistencia.frmAsistencia.resources
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.frmLogin.resources
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.frmPrincipal.resources
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Usuarios.frmABMUsuario.resources
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.GUILayer.Usuarios.frmUsuarios.resources
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.Properties.Resources.resources
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csproj.GenerateResource.cache
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.csproj.CoreCompileInputs.cache
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.exe
+E:\Desktop\ProyectoLiquidexSA\LoginEnCapas\obj\Debug\ProyectoLiquidexSA.pdb
