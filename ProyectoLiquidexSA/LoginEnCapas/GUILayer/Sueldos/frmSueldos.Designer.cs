@@ -193,7 +193,8 @@
             this.lblAsignacion.Name = "lblAsignacion";
             this.lblAsignacion.Size = new System.Drawing.Size(62, 13);
             this.lblAsignacion.TabIndex = 7;
-            this.lblAsignacion.Text = "Asignacion:";
+            this.lblAsignacion.Text = "Asignación:";
+            this.lblAsignacion.Click += new System.EventHandler(this.lblAsignacion_Click);
             // 
             // lblCantidadA
             // 

@@ -24,7 +24,7 @@ namespace ProyectoLiquidexSA.DataAccessLayer
 
             String strSql = string.Concat(" SELECT id_usuario, ",
             "        usuario, ",
-            "        u.borrado, ",
+            "        u.borrado as borrado, ",
             "        email, ",
             "        estado, ",
             "        password, ",

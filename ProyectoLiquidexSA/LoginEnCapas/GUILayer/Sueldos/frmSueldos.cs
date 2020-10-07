@@ -308,13 +308,13 @@ namespace ProyectoLiquidexSA.GUILayer.Sueldos
         private void txtCantidadA_Validating(object sender, CancelEventArgs e)
         {
             int numero;
-            if (Int32.TryParse(txtCantidadA.Text, out numero))
+            if (Int32.TryParse(txtCantidadA.Text, out numero) && int.Parse(txtCantidadA.Text) > 0)
             {
                 txtCantidadA_TextChanged(sender, e);
             }
             else
             {
-                MessageBox.Show("Debe ingresar una cantidad numérica... ", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Debe ingresar una cantidad numérica positiva... ", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 txtCantidadA.Text = "";
             }
         }
@@ -322,15 +322,20 @@ namespace ProyectoLiquidexSA.GUILayer.Sueldos
         private void txtCantidadD_Validating(object sender, CancelEventArgs e)
         {
             int numero;
-            if (Int32.TryParse(txtCantidadD.Text, out numero))
+            if (Int32.TryParse(txtCantidadD.Text, out numero) && int.Parse(txtCantidadD.Text) > 0)
             {
                 txtCantidadD_TextChanged_1(sender, e);
             }
             else
             {
-                MessageBox.Show("Debe ingresar una cantidad numérica... ", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Debe ingresar una cantidad numérica positiva... ", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 txtCantidadD.Text = "";
             }
+        }
+
+        private void lblAsignacion_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

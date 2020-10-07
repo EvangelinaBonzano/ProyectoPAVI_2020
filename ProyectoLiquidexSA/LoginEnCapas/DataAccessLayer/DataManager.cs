@@ -16,7 +16,7 @@ public class DataManager
         // var dataBaseName = ConfigurationManager.AppSettings["dataBaseName"];
         // var string_conexion = ConfigurationManager.ConnectionStrings[dataBaseName].ConnectionString;
         ///dbConnection.ConnectionString = @"Data Source=ANTONELLA\SQLEXPRESS;Initial Catalog=LiquidexSA;User ID=sa;Password=petroniolmos";
-        dbConnection.ConnectionString = @"Data Source=DESKTOP-9AFO27T\SQLEXPRESS;Initial Catalog=LiquidexSA;Persist Security Info=True;User ID=sa ; Password = LoL2000";
+        dbConnection.ConnectionString = @"Data Source=TKC-PC\SQLEXPRESS;Initial Catalog=LiquidexSA;User ID = sa;Password = pavi2020";
     }
 
     public void BeginTransaction()
